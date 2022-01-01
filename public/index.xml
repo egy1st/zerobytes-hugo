@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Pythonize your Data Science</title>
+        <link>/</link>
+        <description>Let&#39;s play with data science, the Python roadmap</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>01@zerobytes.one (Mohamed Ali)</managingEditor>
+            <webMaster>01@zerobytes.one (Mohamed Ali)</webMaster><lastBuildDate>Wed, 01 Sep 2021 01:57:20 &#43;0200</lastBuildDate>
+            <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Strings</title>
+    <link>/strings/</link>
+    <pubDate>Mon, 30 Aug 2021 22:06:47 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>/strings/</guid>
+    <description><![CDATA[Strings in python are surrounded by either single quotation marks, or double quotation marks. 'hello' is the same as "hello"]]></description>
+</item></channel>
+</rss>

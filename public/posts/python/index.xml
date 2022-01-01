@@ -1,0 +1,8 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Python - Pythonize your Data Science</title>
+        <link>/posts/python/</link>
+        <description>All Python | Pythonize your Data Science</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>01@zerobytes.one (Mohamed Ali)</managingEditor>
+            <webMaster>01@zerobytes.one (Mohamed Ali)</webMaster><lastBuildDate>Wed, 01 Sep 2021 01:57:20 &#43;0200</lastBuildDate><atom:link href="/posts/python/" rel="self" type="application/rss+xml" /></channel>
+</rss>
